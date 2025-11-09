@@ -52,6 +52,12 @@ https://x.com/zdanailov7/status/1971322051840573503
 
 Omarchy makes this a breeze:
 
+To install this theme, simply use the `omarchy-theme-install` command:
+
+```bash
+omarchy-theme-install https://github.com/zdravkodanailov7/omarchy-retro-fallout-theme
+```
+### OR
 1. Open the Omarchy menu (**Super + Alt + Space**).
 2. Go to **Install > Style > Theme**.
 3. Paste this repo URL: `https://github.com/zdravkodanailov7/omarchy-retro-fallout-theme`
